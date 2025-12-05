@@ -1,0 +1,13 @@
+/CISC101-Group#-PaperSummarizer
+│
+├── system_prompt.md
+│
+├── modules
+│   ├── module1_intake_and_setup.md
+│   ├── module2_section_loop.md
+│   ├── module3_guardrails.md
+│   ├── module4_rendering_and_refinement.md
+│   ├── module5_key_contributions.md
+│   └── module6_limitations_future_work.md
+│
+└── README.md
